@@ -34,5 +34,5 @@ app.use((req, res, next) => {
 });
 
 app.listen(3001, () => {
-  console.log('Server running at port 3001');
+  console.log('Server running at port 3001.');
 });
